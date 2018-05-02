@@ -16,5 +16,5 @@ Following is a list of featuress from [GDPR - A Practical Guide for developers](
 
 ### Contributing
 
-I'm actively looking for people to contribute on this project. If you have something you'd like to contribute, the best approach is to send a well-formed pull request.
+If you have something you'd like to contribute, the best approach is to send a well-formed pull request.
 This project is in a very early stage and welcomes contribution from developers, Privacy enthusiasts, policy makers, lawyers, etc.
